@@ -27,8 +27,8 @@ Também desenvolvi, como freelancer, um **ERP completo** para uma empresa de mó
 ## Contato
 
 <p>
-  <a href="mailto:yanngcruz@outlook.com"><img src="https://img.shields.io/badge/E--mail-yanngcruz%40outlook.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail: yanngcruz@outlook.com" /></a>
-  <a href="https://pocket-tavern-three.vercel.app"><img src="https://img.shields.io/badge/Pocket_Tavern-ao_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Pocket Tavern ao vivo" /></a>
+  <a href="mailto:yanngcruz@outlook.com"><img height="28" src="https://img.shields.io/badge/yanngcruz%40outlook.com-1F6FEB?style=flat-square&logo=minutemailer&logoColor=white" alt="E-mail: yanngcruz@outlook.com" /></a>
+  <a href="https://pocket-tavern-three.vercel.app"><img height="28" src="https://img.shields.io/badge/pocket--tavern--three.vercel.app-1F6FEB?style=flat-square&logo=vercel&logoColor=white" alt="Pocket Tavern" /></a>
 </p>
 
 <picture>
