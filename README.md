@@ -28,6 +28,7 @@ Também desenvolvi, como freelancer, um **ERP completo** para uma empresa de mó
 
 <p>
   <a href="mailto:yanngcruz@outlook.com"><img height="28" src="https://img.shields.io/badge/yanngcruz%40outlook.com-1F6FEB?style=flat-square&logo=minutemailer&logoColor=white" alt="E-mail: yanngcruz@outlook.com" /></a>
+  <a href="https://www.linkedin.com/in/yann-gon%C3%A7alves-da-cruz/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://pocket-tavern-three.vercel.app"><img height="28" src="https://img.shields.io/badge/pocket--tavern--three.vercel.app-1F6FEB?style=flat-square&logo=vercel&logoColor=white" alt="Pocket Tavern" /></a>
 </p>
 
