@@ -1,4 +1,8 @@
-# Yann Cruz
+<h1 align="center">Yann Cruz</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%C2%B7+TypeScript+%C2%B7+React;Orquestrando+agentes+de+IA" alt="Desenvolvedor Full Stack · Python · TypeScript · React · Orquestrando agentes de IA" />
+</p>
 
 Desenvolvedor Full Stack no Rio de Janeiro. Construo sistemas de ponta a ponta com **Python (FastAPI)**, **TypeScript/React**, **Node.js** e **PostgreSQL**, e ultimamente passo boa parte do tempo orquestrando **agentes de IA** para programar.
 
@@ -16,11 +20,15 @@ Também desenvolvi, como freelancer, um **ERP completo** para uma empresa de mó
 
 ## Stack
 
-- **Backend:** Python, FastAPI, SQLAlchemy, Node.js, Hono
-- **Frontend:** TypeScript, React, Vite, Tailwind CSS, PWA
-- **Mobile/Desktop:** Kotlin, Jetpack Compose, Electron
-- **Dados e infra:** PostgreSQL, Firebase, Docker, Vercel, Cloudflare
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,nodejs,vite,tailwind,kotlin,electron,postgres,firebase,docker,vercel,cloudflare,git" alt="Python, FastAPI, TypeScript, React, Node.js, Vite, Tailwind, Kotlin, Electron, PostgreSQL, Firebase, Docker, Vercel, Cloudflare, Git" />
+</p>
 
 ## Contato
 
 [yanngcruz@outlook.com](mailto:yanngcruz@outlook.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanngc32/Yanngc32/output/github-snake-dark.svg" />
+  <img alt="Animação da cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Yanngc32/Yanngc32/output/github-snake.svg" />
+</picture>
