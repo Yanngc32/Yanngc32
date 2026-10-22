@@ -1,27 +1,62 @@
 <h1 align="center">Yann Cruz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%C2%B7+TypeScript+%C2%B7+React;Orquestrando+agentes+de+IA" alt="Desenvolvedor Full Stack · Python · TypeScript · React · Orquestrando agentes de IA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Rust;Orquestrando+agentes+de+IA;Open+source%3A+Velora+%C2%B7+Nexos+%C2%B7+Jarvis+%C2%B7+Sete+Favos" alt="Desenvolvedor Full Stack · Python · TypeScript · React · Rust · Orquestrando agentes de IA · Open source: Velora, Nexos, Jarvis, Sete Favos" />
 </p>
 
-Desenvolvedor Full Stack no Rio de Janeiro. Construo sistemas de ponta a ponta com **Python (FastAPI)**, **TypeScript/React**, **Node.js** e **PostgreSQL**, e ultimamente passo boa parte do tempo orquestrando **agentes de IA** para programar.
+Desenvolvedor Full Stack no Rio de Janeiro. Construo sistemas de ponta a ponta com **Python (FastAPI)**, **TypeScript/React**, **Node.js** e **PostgreSQL** e, mais recentemente, **Rust**. Passo boa parte do tempo orquestrando **agentes de IA** para programar, e venho abrindo meus projetos como open source.
 
 Estudo Engenharia de Software na Estácio e trabalho com dados e automação na 2D Consultores.
 
-## Projetos em destaque
+## Projetos open source
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [**Nexos**](https://github.com/Yanngc32/Nexos) | Orquestrador local de agentes de código (Claude Code, Codex, APIs). Times de agentes com supervisor, módulo de planejamento, editor de vídeo e interface mobile. | TypeScript · Hono · Electron |
-| [**Jarvis**](https://github.com/Yanngc32/Jarvis-Public) | Assistente de voz e chat self-hosted para homelab, com roteamento de LLM em 3 camadas, memória e integração com Home Assistant. | Python · FastAPI · Ollama · Docker |
-| [**Pocket Tavern**](https://pocket-tavern-three.vercel.app) | Mesa multiplayer em tempo real para RPG, Magic e Munchkin: mapa tático com névoa de guerra e assistente de regras com IA. *(código privado)* | React · Firebase · Kotlin |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/Yanngc32/Velora">Velora</a> <sup>novo</sup></h3>
+      Controle remoto de baixa latência para os seus próprios computadores: Windows, Linux e
+      Android. QUIC com TLS 1.3, codificação e decodificação na GPU, arquivos e área de
+      transferência entre PCs, e acesso de qualquer lugar pelo Tailscale.
+      <br><br>
+      <sub><b>Rust · QUIC · FFmpeg · Kotlin</b> ·
+      <a href="https://github.com/Yanngc32/Velora/blob/main/docs/media/velora-tour.mp4">▶ ver o tour</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/Yanngc32/Sete-Favos">Sete Favos</a> <sup>novo</sup></h3>
+      Central de casa inteligente local: transforma o PC que fica ligado em casa no hub de
+      tomadas, lâmpadas, ar-condicionado, TVs e robôs aspiradores (Tuya/Positivo, Midea, LG webOS
+      e Xiaomi), direto pela rede, com painel web e app Android.
+      <br><br>
+      <sub><b>Python · FastAPI · React · Kotlin</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🤖 <a href="https://github.com/Yanngc32/Nexos">Nexos</a></h3>
+      Orquestrador local de agentes de código (Claude Code, Codex, APIs). Times de agentes com
+      supervisor, módulo de planejamento, editor de vídeo e interface mobile.
+      <br><br>
+      <sub><b>TypeScript · Hono · Electron</b></sub>
+    </td>
+    <td valign="top">
+      <h3>🎙️ <a href="https://github.com/Yanngc32/Jarvis-Public">Jarvis</a></h3>
+      Assistente de voz e chat self-hosted para homelab: roteamento de LLM em 3 camadas, memória
+      em vault Obsidian, voz via Wyoming e integração com Home Assistant e app Android.
+      <br><br>
+      <sub><b>Python · FastAPI · Ollama · Docker</b></sub>
+    </td>
+  </tr>
+</table>
 
-Também desenvolvi, como freelancer, um **ERP completo** para uma empresa de móveis (CRM, estoque, orçamentos, financeiro) com FastAPI, PostgreSQL e React, hoje em produção e em uso pela empresa, com deploy via Docker e Cloudflare Tunnel.
+## Outros projetos
+
+- [**Pocket Tavern**](https://pocket-tavern-three.vercel.app): mesa multiplayer em tempo real para RPG, Magic e Munchkin, com mapa tático com névoa de guerra e assistente de regras com IA. *(código privado)* · <sub>React · Firebase · Kotlin</sub>
+- **ERP sob medida**, como freelancer, para uma empresa de móveis: CRM, estoque, orçamentos e financeiro, com FastAPI, PostgreSQL e React. Está em produção e em uso pela empresa, com deploy via Docker e Cloudflare Tunnel.
 
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,nodejs,vite,tailwind,kotlin,electron,postgres,firebase,docker,vercel,cloudflare,git" alt="Python, FastAPI, TypeScript, React, Node.js, Vite, Tailwind, Kotlin, Electron, PostgreSQL, Firebase, Docker, Vercel, Cloudflare, Git" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,nodejs,rust,kotlin,vite,tailwind,electron,postgres,firebase,docker,linux,vercel,cloudflare,git&perline=9" alt="Python, FastAPI, TypeScript, React, Node.js, Rust, Kotlin, Vite, Tailwind, Electron, PostgreSQL, Firebase, Docker, Linux, Vercel, Cloudflare, Git" />
 </p>
 
 ## Contato
