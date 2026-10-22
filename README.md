@@ -13,7 +13,7 @@ Estudo Engenharia de Software na Estácio e trabalho com dados e automação na 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Yanngc32/Velora">Velora</a> <sup>novo</sup></h3>
+      <h3><img src="assets/logos/velora.png" width="36" height="36" align="center" alt="">&nbsp;<a href="https://github.com/Yanngc32/Velora">Velora</a> <sup>novo</sup></h3>
       Controle remoto de baixa latência para os seus próprios computadores: Windows, Linux e
       Android. QUIC com TLS 1.3, codificação e decodificação na GPU, arquivos e área de
       transferência entre PCs, e acesso de qualquer lugar pelo Tailscale.
@@ -22,7 +22,7 @@ Estudo Engenharia de Software na Estácio e trabalho com dados e automação na 
       <a href="https://github.com/Yanngc32/Velora/blob/main/docs/media/velora-tour.mp4">ver o tour</a></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Yanngc32/Sete-Favos">Sete Favos</a> <sup>novo</sup></h3>
+      <h3><img src="assets/logos/sete-favos.png" width="36" height="36" align="center" alt="">&nbsp;<a href="https://github.com/Yanngc32/Sete-Favos">Sete Favos</a> <sup>novo</sup></h3>
       Central de casa inteligente local: transforma o PC que fica ligado em casa no hub de
       tomadas, lâmpadas, ar-condicionado, TVs e robôs aspiradores (Tuya/Positivo, Midea, LG webOS
       e Xiaomi), direto pela rede, com painel web e app Android.
@@ -32,7 +32,7 @@ Estudo Engenharia de Software na Estácio e trabalho com dados e automação na 
   </tr>
   <tr>
     <td valign="top">
-      <h3><a href="https://github.com/Yanngc32/Nexos">Nexos</a></h3>
+      <h3><img src="assets/logos/nexos.png" width="36" height="36" align="center" alt="">&nbsp;<a href="https://github.com/Yanngc32/Nexos">Nexos</a></h3>
       Orquestrador local de agentes de código (Claude Code, Codex, APIs). Times de agentes com
       supervisor, módulo de planejamento, editor de vídeo e interface mobile.
       <br><br>
